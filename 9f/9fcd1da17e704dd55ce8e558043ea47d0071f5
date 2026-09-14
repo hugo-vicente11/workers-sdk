@@ -1,0 +1,19 @@
+packages/wrangler/src/__tests__/tunnel/tunnel.test.ts
+  s_5eb6963eadb271::t_5e227e1a5476bd 1,307
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9f9fcd1da17e704dd55ce8e558043ea47d0071f5",
+  "prompts": {},
+  "sessions": {
+    "s_5eb6963eadb271": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f60a8cb76ffe96Phl5Otwe8UBw",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Hugo Vicente <hugo.asm11@gmail.com>"
+    }
+  }
+}
